@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resourses/images/bg.png</file>
+        <file>resourses/images/cross_large.png</file>
+        <file>resourses/images/cross_small.png</file>
+        <file>resourses/images/title_ico.png</file>
+        <file>resourses/images/zero_large.png</file>
+        <file>resourses/images/zero_small.png</file>
+        <file>resourses/fonts/Comic_CAT.otf</file>
+        <file>resourses/fonts/nexa-script-light-1.ttf</file>
+        <file>resourses/images/names.png</file>
+        <file>resourses/fonts/kraft-mono-regular.ttf</file>
+    </qresource>
+</RCC>
